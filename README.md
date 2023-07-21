@@ -5,3 +5,14 @@ This repository contains the Pytorch\DGL implementation and the used graph embed
 
 ## Note
 - We are currently in the process of code and data cleaning. Both will be ready by the MICCAI 2023 conference. Stay tuned!
+
+
+
+
+## TODOs
+Please follow this GitHub for more updates.
+- [ ] Documentation on training and evaluating the models.
+- [ ] Cleaning the python and lifeline code post training analyses including kaplan-meier plots and logrank tests
+- [ ] Cleaning the used data to be ready for public use.
+- [ ] Cleaning and releasing the pytorch implementation for training the model.
+
