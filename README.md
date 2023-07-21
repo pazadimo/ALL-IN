@@ -13,6 +13,6 @@ This repository contains the Pytorch\DGL implementation and the used graph embed
 Please follow this GitHub for more updates.
 - [ ] Documentation on training and evaluating the models.
 - [ ] Cleaning the python and lifeline code post training analyses including kaplan-meier plots and logrank tests
-- [ ] Cleaning the used data to be ready for public use.
+- [ ] Cleaning the  data to be ready for the public use.
 - [ ] Cleaning and releasing the pytorch implementation for training the model.
 
